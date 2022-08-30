@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JHHe1f8I0OH-SLjJITWM3w" name=",_viNkACfzEe2mBNAWh6BfQQ" guid="-JHHe1f8I0OH-SLjJITWM3w" changeDate="2022-08-29T21:06:42.163-0300">
-  <purpose>Forneça uma estimativa detalhada que será usada no planejamento da iteração.</purpose>
-</org.eclipse.epf.uma:TaskDescription>
