@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y0wrYB9NmzlcROlRkjDjoA" name=",_dfjaYCf0Ee2mBNAWh6BfQQ" guid="-Y0wrYB9NmzlcROlRkjDjoA">
+  <purpose>Para manter o código&amp;nbsp; do sistema claro e pronto para mudanças.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DabE3emj9iaWap5B2zzuQg" name=",_rspVwCf1Ee2mBNAWh6BfQQ" guid="-DabE3emj9iaWap5B2zzuQg">
+  <purpose>Tratar com o cliente a precisão dos requisitos e se atende ou não.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
